@@ -1,0 +1,13 @@
+{
+  "name": "fetch-tags",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.2"
+  }
+}

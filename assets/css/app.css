@@ -1,0 +1,19 @@
+html, body {
+    box-sizing: border-box;
+}
+
+.c-search {
+    text-align: center;
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.c-tags-list {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.c-tags-list.c--error {
+    color: red;
+}
