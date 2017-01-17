@@ -3,7 +3,7 @@
 # To run
 1. Please run `npm install`
 2. Then run `npm run serve` to start the server
-3. In browser, please navigate to http://localhost:3000/
+3. In browser, please navigate to [http://localhost:3000/]
 
 A good site to test is `http://stackoverflow.com`.
 
